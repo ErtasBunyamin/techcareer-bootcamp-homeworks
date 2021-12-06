@@ -1,0 +1,17 @@
+https://northwind.vercel.app/api/suppliers dataları çek
+get all suppliers (bir kaç tane query string ile)
+get supplier by id
+post supplier (supplier ekle) validationlarını da yaz
+delete supplier
+postmanden örnek datayı kaydet
+
+
+PUT nedir? Bir örnek yap???
+
+
+suppliers datasını başka bir js dosyasına koy ve oradan EXPORT et???
+
+yazılım Güvenliği videosunu izle
+
+
+
